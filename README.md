@@ -3,7 +3,7 @@
 **High-resolution mapping of seagrass and benthic habitats in Greek coastal sites**
 
 Nikolaos Providakis¹, Vasilis Gerakaris¹
-¹ Hellenic Centre for Marine Research (HCMR), Institute of Oceanography, Anavyssos, Greece · nprov@hcmr.gr
+¹ Hellenic Centre for Marine Research (HCMR), Institute of Oceanography, Anavyssos, Greece · nprov[a]hcmr[.]gr
 
 Companion repository to the poster presented at the *I Simposio Ibérico de Cartografía y Monitorización de Praderas Marinas* (CartoGRASS 2026), Cartagena.
 
