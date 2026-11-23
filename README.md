@@ -24,6 +24,7 @@ This repository accompanies a simplified, reproducible object-based image analys
 |---|---|
 | 🖼️ Poster (A0, PDF) | [`poster/`](poster/) |
 | 📄 Preliminary methodology report (EN) | [`docs/`](docs/) |
+| 🖥️ Mar-Rast interface demo | [`demo/`](demo/): screenshots of the in-development desktop app that wraps the workflow tools (not yet released) |
 | 🧰 Scripts and tools | [`scripts/`](scripts/) (to be released) |
 | 📚 References | see the methodology report |
 
@@ -59,6 +60,7 @@ Kappa, F1 and per-model results are given in the methodology report.
 ├── LICENSE
 ├── poster/      Poster (PDF) and preview image
 ├── docs/        Preliminary methodology report
+├── demo/        Mar-Rast interface screenshots (development build)
 └── scripts/     Python scripts (to be released)
 ```
 
